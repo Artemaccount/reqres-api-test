@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Тестирование REQRES.IN">
+    <test name="Апи тестирование">
+        <classes>
+            <class name="in.reqres.tests.Tests"/>
+        </classes>
+    </test>
+</suite>
